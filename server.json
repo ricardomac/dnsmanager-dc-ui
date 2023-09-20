@@ -1,0 +1,15 @@
+{
+  "dnsZones": [
+    {
+      "nome": "mydomain.com.br",
+      "tipo": "1",
+      "diretorioIntegrado": "True",
+      "registros": [
+        {
+          "nome": "admin.mydomain.com.br",
+          "valor": "192.168.0.10"
+        }
+      ]
+    }
+  ]
+}
